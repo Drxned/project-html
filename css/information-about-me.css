@@ -1,0 +1,32 @@
+.informationaboutme {
+    margin-top: 10%;
+}
+.text-aboutme {
+    text-align: justify;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 4%;
+}
+.myinterests {
+    text-align: justify;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 4%;
+}
+.dots {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+body {
+    background: url(header.jpg) no-repeat;
+    font-family: fantasy;
+    text-align: center;
+    font-family: cursive;
+    background-color: #1a1a1a;
+    background-size: 100%;
+    color:#F5F5F5;
+}
+.dots {
+    font-size: 3em;
+}

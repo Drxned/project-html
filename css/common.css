@@ -1,3 +1,4 @@
+  
 header {
     height: 600px;
 }
@@ -33,7 +34,7 @@ button {
     background: rgb(212,75,56);
     padding: .7em 1.5em; 
     outline: none;
-} 
+}
 .myphotos {
     height: 600px;
 }
@@ -52,7 +53,49 @@ button {
 .writetome {
     margin-top: 5%;
 }
+.informationaboutme {
+    margin-top: 10%;
+}
+.text-aboutme {
+    text-align: justify;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 4%;
+}
 a {
     text-decoration: none;
     color:#F5F5F5;
 }
+.myinterests {
+    text-align: justify;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 4%;
+}
+.submit-reset {
+    color: #fff; 
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(212,75,56);
+    padding: .7em 1.5em; 
+    outline: none;
+    margin-top: 3%;
+}
+.client-name {
+    margin-top: 5%;
+}
+.client-email {
+    margin-top: 2%;
+}
+.your-phone {
+    margin-top: 2%;
+}
+.dots {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+.header-informationaboutme {
+    max-height: 150px;
+}
+

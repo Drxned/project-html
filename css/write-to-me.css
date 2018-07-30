@@ -1,0 +1,38 @@
+body {
+    background: url(header.jpg) no-repeat;
+    font-family: fantasy;
+    text-align: center;
+    font-family: cursive;
+    background-color: #1a1a1a;
+    background-size: 100%;
+    color:#F5F5F5;
+}
+.dots {
+    font-size: 3em;
+}
+.submit-reset {
+    color: #fff; 
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(212,75,56);
+    padding: .7em 1.5em; 
+    outline: none;
+    margin-top: 3%;
+}
+.client-name {
+    margin-top: 5%;
+}
+.client-email {
+    margin-top: 2%;
+}
+.your-phone {
+    margin-top: 2%;
+}
+.dots {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+.header-informationaboutme {
+    max-height: 150px;
+}
