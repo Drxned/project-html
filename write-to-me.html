@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Contact</title>
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" href="img/logo.jpg" type="images/x-icon">
+</head>
+<body>
+    <div>
+        <h1 class="writetome">WRITE TO ME</h1>
+    </div>
+    <div>
+        <form method="POST" action="https://formspree.io/dunazar21@gmail.com">
+            <div class="client-name">
+                <label for="client-name">Client name:</label>
+                <input type="text" name="client-name" id="client-name" required>
+            </div>
+            <div class="client-email">
+                <label for="client-email">Client email:</label>
+                <input type="text" name="client-email" id="client-email" required>
+            </div>
+            <div class="your-phone">
+                <label for="your-phone">Your phone:</label>
+                <input type="tel" name="your-phone" id="your-phone" placeholder="380634667877" pattern="[0-9]{12}">
+            </div>
+            <div>
+                <input type="submit" class="submit-reset">
+                <input type="reset" class="submit-reset">
+            </div>
+        </form>    
+    </div>
+</body>
+</html>
