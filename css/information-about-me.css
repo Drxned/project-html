@@ -1,16 +1,17 @@
 .informationaboutme {
-    margin-top: 10%;
+    margin-top: 15%;
 }
+
 .text-aboutme {
     text-align: justify;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 25%;
+    margin-right: 25%;
     margin-top: 4%;
 }
 .myinterests {
     text-align: justify;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 25%;
+    margin-right: 25%;
     margin-top: 4%;
 }
 .dots {
@@ -29,4 +30,10 @@ body {
 }
 .dots {
     font-size: 3em;
+}
+#website-home {
+	position:fixed;
+	width: 100%;
+	margin-top: -15%;
+	z-index: 999999;
 }
